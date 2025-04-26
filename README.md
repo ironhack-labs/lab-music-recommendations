@@ -2,7 +2,7 @@
 
 # Lab | Music recommendations
 
-## Getting Started
+## Getting Started  
 
 Follow the instructions provided in the notebook.
 
