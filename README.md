@@ -22,3 +22,22 @@ Read the instructions for each cell and provide your answers. Make sure to test 
 <br>
 
 **Good luck!**
+
+## Completed local solution
+
+Open `lab-music-recommendations.ipynb` and run all cells from this directory:
+
+```sh
+python3 -m pip install -r requirements.txt
+python3 -m notebook lab-music-recommendations.ipynb
+```
+
+The solution includes the MusicCaps metadata, local TF-IDF/cosine retrieval,
+preference filters, source-grounded explanations, examples, and executed checks.
+The default generator uses templates and consumes no API tokens. An optional
+Ollama function provides local LLM generation when a model is installed.
+Dataset attribution and license are in `data/README.md`.
+
+The original walkthrough is preserved in `reference/pinecone-audio-demo.ipynb`;
+its Pinecone/PANNs workflow was not executed. The optional Ollama path was also
+not executed. All default solution code cells were executed and outputs saved.
