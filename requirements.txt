@@ -1,0 +1,8 @@
+numpy>=1.26,<3
+scipy>=1.12,<2
+soundfile>=0.12,<1
+scikit-learn>=1.4,<2
+nbformat>=5.9,<6
+nbclient>=0.10,<1
+ipykernel>=6.29,<8
+ipython>=8,<10

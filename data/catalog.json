@@ -1,0 +1,157 @@
+[
+  {
+    "id": "brahms",
+    "title": "Hungarian Dance No. 5",
+    "artist": "Johannes Brahms / US Army Strings",
+    "genre": "classical",
+    "tags": [
+      "orchestra",
+      "strings",
+      "instrumental",
+      "dramatic",
+      "energetic"
+    ],
+    "description": "An orchestral performance with strings and changing dynamics.",
+    "path": "music/brahms.ogg",
+    "source": "https://librosa.org/data/audio/Hungarian_Dance_number_5_-_Allegro_in_F_sharp_minor_(string_orchestra).txt",
+    "audio_url": "https://librosa.org/data/audio/Hungarian_Dance_number_5_-_Allegro_in_F_sharp_minor_(string_orchestra).ogg",
+    "sha256": "919b48aa4cc66a0357d2cd5728664c5ab8f15c4b3469460df4b59470d35d3e49",
+    "attribution_sha256": "0c857ef8a7365e3df9d5c25c2b08ec3169c0585e3ec08c9c6423d2a04d72fe5f"
+  },
+  {
+    "id": "nutcracker",
+    "title": "Dance of the Sugar Plum Fairy",
+    "artist": "Pyotr Ilyich Tchaikovsky / Kevin MacLeod",
+    "genre": "classical",
+    "tags": [
+      "orchestra",
+      "instrumental",
+      "delicate",
+      "celesta",
+      "calm"
+    ],
+    "description": "An orchestral excerpt from the Nutcracker with a delicate melody.",
+    "path": "music/nutcracker.ogg",
+    "source": "https://librosa.org/data/audio/Kevin_MacLeod_-_P_I_Tchaikovsky_Dance_of_the_Sugar_Plum_Fairy.txt",
+    "audio_url": "https://librosa.org/data/audio/Kevin_MacLeod_-_P_I_Tchaikovsky_Dance_of_the_Sugar_Plum_Fairy.ogg",
+    "sha256": "b5c1a3e26310e6618d3c124f458654cd235650fcb9db7d711302644566600484",
+    "attribution_sha256": "059acb340170385d2bfa4c7ab7c2a06b1d8f8af3e0f11cb4f46ff4049e950915"
+  },
+  {
+    "id": "choice",
+    "title": "Choice",
+    "artist": "Admiral Bob",
+    "genre": "electronic",
+    "tags": [
+      "drum",
+      "bass",
+      "electronic",
+      "energetic",
+      "rhythmic",
+      "loop"
+    ],
+    "description": "A short drum and bass loop.",
+    "path": "music/choice.ogg",
+    "source": "https://librosa.org/data/audio/admiralbob77_-_Choice_-_Drum-bass.txt",
+    "audio_url": "https://librosa.org/data/audio/admiralbob77_-_Choice_-_Drum-bass.ogg",
+    "sha256": "ac644f9645e7c15174e4a4f8561e4d1448d7f6e59ff6b0556b310ebbced879bc",
+    "attribution_sha256": "76525d6a4fd135053c5ff7463ae43a8ffcf064b575e8ef2fc3eb37786a45342b"
+  },
+  {
+    "id": "fishin",
+    "title": "Let?s Go Fishin?",
+    "artist": "Karissa Hobbs",
+    "genre": "folk",
+    "tags": [
+      "folk",
+      "pop",
+      "vocals",
+      "guitar",
+      "acoustic"
+    ],
+    "description": "A folk/pop song with vocals and a verse/chorus structure.",
+    "path": "music/fishin.ogg",
+    "source": "https://librosa.org/data/audio/Karissa_Hobbs_-_Lets_Go_Fishin.txt",
+    "audio_url": "https://librosa.org/data/audio/Karissa_Hobbs_-_Lets_Go_Fishin.ogg",
+    "sha256": "27b3667c396c1831511aa3c415fcf582b6e8be560cafb844c5b67b76b72c1cb3",
+    "attribution_sha256": "199bf3408b98916cd9d28a22b2b43c1935ab70072b46fa05c0b9f40e7882802e"
+  },
+  {
+    "id": "sweetwaltz",
+    "title": "Sweet Waltz",
+    "artist": "Setuniman",
+    "genre": "waltz",
+    "tags": [
+      "instrumental",
+      "xylophone",
+      "flute",
+      "organ",
+      "gentle",
+      "calm"
+    ],
+    "description": "A waltz in 3/4 with synthesized xylophone, flute, and organ.",
+    "path": "music/sweetwaltz.ogg",
+    "source": "https://librosa.org/data/audio/147793__setuniman__sweet-waltz-0i-22mi.txt",
+    "audio_url": "https://librosa.org/data/audio/147793__setuniman__sweet-waltz-0i-22mi.ogg",
+    "sha256": "4baff8ebf1771c33618b58aa12ac3fbac1e0462894ae74247f2fb8e649d1c63b",
+    "attribution_sha256": "6e6e9265ae9a9a36033ce305a893abdc15f43bb5a41ec29efba368ad91905f43"
+  },
+  {
+    "id": "pistachio",
+    "title": "Pistachio Ice Cream Ragtime",
+    "artist": "The Piano Lady",
+    "genre": "ragtime",
+    "tags": [
+      "piano",
+      "solo",
+      "instrumental",
+      "happy",
+      "energetic"
+    ],
+    "description": "A solo piano ragtime piece.",
+    "path": "music/pistachio.ogg",
+    "source": "https://librosa.org/data/audio/442789__lena-orsa__happy-music-pistachio-ice-cream-ragtime.txt",
+    "audio_url": "https://librosa.org/data/audio/442789__lena-orsa__happy-music-pistachio-ice-cream-ragtime.ogg",
+    "sha256": "9617c9be55c128177b13c20fbc52178ed482e3545094517efb30a7db2798991e",
+    "attribution_sha256": "99f9c44368918572ac154ae4a2fec4020d1d4bb418ae7bf241864916d68f9d04"
+  },
+  {
+    "id": "trumpet",
+    "title": "Trumpet loop",
+    "artist": "Mihai Sorohan",
+    "genre": "jazz",
+    "tags": [
+      "trumpet",
+      "brass",
+      "solo",
+      "instrumental",
+      "blues",
+      "loop"
+    ],
+    "description": "A monophonic trumpet loop from a jazz trumpet loop pack.",
+    "path": "music/trumpet.ogg",
+    "source": "https://librosa.org/data/audio/sorohanro_-_solo-trumpet-06.txt",
+    "audio_url": "https://librosa.org/data/audio/sorohanro_-_solo-trumpet-06.ogg",
+    "sha256": "8374466fd3951d24509da6e799b132a0db0bdeda69d99c69d989a6888d3d727d",
+    "attribution_sha256": "750a191b9d0cc94b2f19cfbf11acc13783f75bedcccfcf562f5b076efd068aba"
+  },
+  {
+    "id": "vibeace",
+    "title": "Vibe Ace",
+    "artist": "Kevin MacLeod",
+    "genre": "jazz",
+    "tags": [
+      "vibraphone",
+      "piano",
+      "bass",
+      "instrumental",
+      "relaxed"
+    ],
+    "description": "A vibraphone, piano, and bass combo.",
+    "path": "music/vibeace.ogg",
+    "source": "https://librosa.org/data/audio/Kevin_MacLeod_-_Vibe_Ace.txt",
+    "audio_url": "https://librosa.org/data/audio/Kevin_MacLeod_-_Vibe_Ace.ogg",
+    "sha256": "6c23aed3dd5aa57f2b1652ecab68d15d9b82ad257f54e639eb2880ca09bc118a",
+    "attribution_sha256": "6c71e0525cb0452ea74c6d6f5fde6fa1e221223db7b2aa35b9914b98367ee7b9"
+  }
+]
