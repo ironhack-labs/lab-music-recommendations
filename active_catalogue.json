@@ -1,0 +1,17 @@
+{
+  "collection": "fma_balanced_cnn14_v1",
+  "catalogue": "catalogue_fma.json",
+  "tracks": 200,
+  "genres": {
+    "Jazz": 20,
+    "Classical": 20,
+    "Blues": 20,
+    "Rock": 20,
+    "Pop": 20,
+    "Electronic": 20,
+    "Hip-Hop": 20,
+    "Folk": 20,
+    "Soul-RnB": 20,
+    "Latin": 20
+  }
+}
