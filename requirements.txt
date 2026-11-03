@@ -1,0 +1,15 @@
+numpy
+scipy
+pandas
+matplotlib
+torch>=2.6
+chromadb==1.5.9
+panns-inference==0.1.1
+torchlibrosa==0.1.0
+librosa==1.0.0
+soundfile==0.14.0
+sounddevice==0.5.6
+ipywidgets
+notebook
+nbformat
+nbclient

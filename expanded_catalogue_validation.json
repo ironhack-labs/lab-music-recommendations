@@ -1,0 +1,27 @@
+{
+  "catalogue_tracks": 200,
+  "genre_groups": {
+    "Jazz": 20,
+    "Classical": 20,
+    "Blues": 20,
+    "Rock": 20,
+    "Pop": 20,
+    "Electronic": 20,
+    "Hip-Hop": 20,
+    "Folk": 20,
+    "Soul-RnB": 20,
+    "Latin": 20
+  },
+  "validation": {
+    "unique_audio_files": 200,
+    "artists": 192,
+    "recording_seconds": 20,
+    "recommendations": 5,
+    "saved_recordings_checked": 4,
+    "distinct_top1_before": 1,
+    "distinct_top1_after": 3,
+    "mean_top5_jaccard_before": 0.603,
+    "mean_top5_jaccard_after": 0.185
+  },
+  "limitations": "Repeated-recording diversity is not a genre-accuracy or preference-quality evaluation. The original Tiny AAM held-out evaluation is reported separately."
+}

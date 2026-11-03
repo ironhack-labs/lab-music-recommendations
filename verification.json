@@ -1,0 +1,43 @@
+{
+  "reference_tracks": 16,
+  "heldout_tracks": 4,
+  "embedding_dimensions": 2048,
+  "sample_rate_hz": 32000,
+  "self_exclusion_passed": true,
+  "persistence_passed": true,
+  "empty_filter_passed": true,
+  "evaluation": [
+    {
+      "query": "0001",
+      "retrieval_instrument_jaccard": 0.15782828282828285,
+      "random_instrument_jaccard": 0.12424242424242422,
+      "retrieval_mean_bpm_difference": 29.666666666666668,
+      "random_mean_bpm_difference": 34.0,
+      "retrieved_track_ids": "2269, 1711, 0080"
+    },
+    {
+      "query": "0989",
+      "retrieval_instrument_jaccard": 0.3,
+      "random_instrument_jaccard": 0.1126984126984127,
+      "retrieval_mean_bpm_difference": 17.0,
+      "random_mean_bpm_difference": 16.666666666666668,
+      "retrieved_track_ids": "2990, 2828, 1014"
+    },
+    {
+      "query": "1941",
+      "retrieval_instrument_jaccard": 0.2205387205387205,
+      "random_instrument_jaccard": 0.19774669774669773,
+      "retrieval_mean_bpm_difference": 20.666666666666668,
+      "random_mean_bpm_difference": 15.666666666666666,
+      "retrieved_track_ids": "0192, 2990, 2828"
+    },
+    {
+      "query": "2720",
+      "retrieval_instrument_jaccard": 0.18097643097643099,
+      "random_instrument_jaccard": 0.20555555555555557,
+      "retrieval_mean_bpm_difference": 19.666666666666668,
+      "random_mean_bpm_difference": 12.666666666666666,
+      "retrieved_track_ids": "1545, 0080, 2602"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+[
+  {
+    "track_id": "0001",
+    "path": "data/tiny_aam/audio-mixes-mp3/0001_mix.mp3",
+    "bpm": 92.0,
+    "instruments": "Drums, Flugelhorn, OrganBass, TenorSax, Ukulele",
+    "split": "heldout",
+    "source": "Tiny AAM, Zenodo 6771120",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "track_id": "0080",
+    "path": "data/tiny_aam/audio-mixes-mp3/0080_mix.mp3",
+    "bpm": 163.0,
+    "instruments": "AltoSax, Drums, ElectricBass, Piano",
+    "split": "reference",
+    "source": "Tiny AAM, Zenodo 6771120",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "track_id": "0192",
+    "path": "data/tiny_aam/audio-mixes-mp3/0192_mix.mp3",
+    "bpm": 133.0,
+    "instruments": "Balalaika, Cello, DoubleBassArco, ElectricPiano, Trumpet",
+    "split": "reference",
+    "source": "Tiny AAM, Zenodo 6771120",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "track_id": "0620",
+    "path": "data/tiny_aam/audio-mixes-mp3/0620_mix.mp3",
+    "bpm": 123.0,
+    "instruments": "AcousticGuitar, Cello, Drums, ElectricBass, ElectricGuitarClean, TenorSax",
+    "split": "reference",
+    "source": "Tiny AAM, Zenodo 6771120",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "track_id": "0758",
+    "path": "data/tiny_aam/audio-mixes-mp3/0758_mix.mp3",
+    "bpm": 119.0,
+    "instruments": "Drums, ElectricBass, ElectricGuitarCrunch, Piano, Shakuhachi, Trombone, Ukulele",
+    "split": "reference",
+    "source": "Tiny AAM, Zenodo 6771120",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "track_id": "0989",
+    "path": "data/tiny_aam/audio-mixes-mp3/0989_mix.mp3",
+    "bpm": 120.0,
+    "instruments": "AcousticGuitar, BrightPiano, Cello, DoubleBassPizz, Drums, MorinKhuur",
+    "split": "heldout",
+    "source": "Tiny AAM, Zenodo 6771120",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "track_id": "1014",
+    "path": "data/tiny_aam/audio-mixes-mp3/1014_mix.mp3",
+    "bpm": 134.0,
+    "instruments": "BrightPiano, DoubleBassPizz, Drums, ElectricGuitarClean, ElectricPiano, Flute",
+    "split": "reference",
+    "source": "Tiny AAM, Zenodo 6771120",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "track_id": "1050",
+    "path": "data/tiny_aam/audio-mixes-mp3/1050_mix.mp3",
+    "bpm": 108.0,
+    "instruments": "Cello, Drums, ElectricBass, ElectricGuitarClean, ElectricGuitarCrunch, Fujara, Shakuhachi",
+    "split": "reference",
+    "source": "Tiny AAM, Zenodo 6771120",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "track_id": "1545",
+    "path": "data/tiny_aam/audio-mixes-mp3/1545_mix.mp3",
+    "bpm": 106.0,
+    "instruments": "AcousticGuitar, BrightPiano, Cello, DoubleBassArco, Drums, ElectricGuitarClean, TenorSax",
+    "split": "reference",
+    "source": "Tiny AAM, Zenodo 6771120",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "track_id": "1711",
+    "path": "data/tiny_aam/audio-mixes-mp3/1711_mix.mp3",
+    "bpm": 87.0,
+    "instruments": "AcousticGuitar, Cello, Clarinet, Drums, ElectricGuitarCrunch, ElectricGuitarLead, OrganBass, PanFlute",
+    "split": "reference",
+    "source": "Tiny AAM, Zenodo 6771120",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "track_id": "1941",
+    "path": "data/tiny_aam/audio-mixes-mp3/1941_mix.mp3",
+    "bpm": 106.0,
+    "instruments": "AcousticGuitar, Cello, DoubleBassArco, Drums, Flugelhorn, Sitar",
+    "split": "heldout",
+    "source": "Tiny AAM, Zenodo 6771120",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "track_id": "2269",
+    "path": "data/tiny_aam/audio-mixes-mp3/2269_mix.mp3",
+    "bpm": 79.0,
+    "instruments": "AcousticGuitar, Balalaika, Drums, ElectricGuitarCrunch, ElectricGuitarLead, OrganBass, Sitar, Trombone, Violin",
+    "split": "reference",
+    "source": "Tiny AAM, Zenodo 6771120",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "track_id": "2395",
+    "path": "data/tiny_aam/audio-mixes-mp3/2395_mix.mp3",
+    "bpm": 127.0,
+    "instruments": "Drums, ElectricPiano, Erhu, Fujara, OrganBass, Ukulele",
+    "split": "reference",
+    "source": "Tiny AAM, Zenodo 6771120",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "track_id": "2462",
+    "path": "data/tiny_aam/audio-mixes-mp3/2462_mix.mp3",
+    "bpm": 60.0,
+    "instruments": "DoubleBassPizz, Drums, ElectricGuitarCrunch, Fujara, MorinKhuur, Piano",
+    "split": "reference",
+    "source": "Tiny AAM, Zenodo 6771120",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "track_id": "2602",
+    "path": "data/tiny_aam/audio-mixes-mp3/2602_mix.mp3",
+    "bpm": 121.0,
+    "instruments": "Drums, ElectricBass, ElectricGuitarClean, ElectricGuitarCrunch, ElectricPiano, Sitar, TenorSax, Trumpet, Ukulele",
+    "split": "reference",
+    "source": "Tiny AAM, Zenodo 6771120",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "track_id": "2720",
+    "path": "data/tiny_aam/audio-mixes-mp3/2720_mix.mp3",
+    "bpm": 119.0,
+    "instruments": "AcousticGuitar, DoubleBassPizz, Drums, Sitar, Trombone, Ukulele",
+    "split": "heldout",
+    "source": "Tiny AAM, Zenodo 6771120",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "track_id": "2828",
+    "path": "data/tiny_aam/audio-mixes-mp3/2828_mix.mp3",
+    "bpm": 84.0,
+    "instruments": "AcousticGuitar, Clarinet, Drums, ElectricBass, ElectricGuitarClean, Flute, Sitar, Violin",
+    "split": "reference",
+    "source": "Tiny AAM, Zenodo 6771120",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "track_id": "2841",
+    "path": "data/tiny_aam/audio-mixes-mp3/2841_mix.mp3",
+    "bpm": 160.0,
+    "instruments": "AcousticGuitar, BrightPiano, Clarinet, DoubleBassArco, Drums, ElectricGuitarClean, ElectricPiano, Shakuhachi, Sitar, Viola",
+    "split": "reference",
+    "source": "Tiny AAM, Zenodo 6771120",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "track_id": "2990",
+    "path": "data/tiny_aam/audio-mixes-mp3/2990_mix.mp3",
+    "bpm": 119.0,
+    "instruments": "AcousticGuitar, BrightPiano, DoubleBassPizz, Drums, ElectricGuitarCrunch, Flute, Shakuhachi, Ukulele",
+    "split": "reference",
+    "source": "Tiny AAM, Zenodo 6771120",
+    "license": "CC-BY-4.0"
+  },
+  {
+    "track_id": "3000",
+    "path": "data/tiny_aam/audio-mixes-mp3/3000_mix.mp3",
+    "bpm": 89.0,
+    "instruments": "Drums, ElectricBass, ElectricGuitarClean, ElectricPiano, PanFlute, Ukulele",
+    "split": "reference",
+    "source": "Tiny AAM, Zenodo 6771120",
+    "license": "CC-BY-4.0"
+  }
+]

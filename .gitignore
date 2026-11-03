@@ -1,0 +1,17 @@
+vendor_py/
+wheels/
+downloads/
+models/
+chroma_audio/
+data/
+prepared/
+*cache/
+jupyter_runtime/
+*.log
+*.url
+__pycache__/
+.ipynb_checkpoints/
+.env
+.env.*
+recording_diagnostics.json
+expanded_verification.json
